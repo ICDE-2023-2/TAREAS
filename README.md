@@ -1,2 +1,2 @@
-Ver aqui "https://icde-2023-2.github.io/TAREAS/"
+Ver aqui "https://github.com/ICDE-2023-2/TAREAS/raw/main/index.ipynb"
 # TAREAS
